@@ -1,0 +1,16 @@
+--- 
+title: "Notes on Social Enterprise"
+author: "Phùng Khánh Lâm"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: lampk/notebook_SocialEnterprise
+description: "My notes on Social Enterprise"
+---
+
+# Preface {-}
+
